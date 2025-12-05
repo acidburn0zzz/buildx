@@ -35,7 +35,7 @@ require (
 	github.com/opencontainers/image-spec v1.0.2-0.20210819154149-5ad6f50d6283
 	github.com/pkg/errors v0.9.1
 	github.com/serialx/hashring v0.0.0-20190422032157-8b2912629002
-	github.com/sirupsen/logrus v1.8.1
+	github.com/sirupsen/logrus v1.8.3
 	github.com/spf13/cobra v1.2.1
 	github.com/spf13/pflag v1.0.5
 	github.com/stretchr/testify v1.7.0
